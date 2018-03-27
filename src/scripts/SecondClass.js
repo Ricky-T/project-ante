@@ -1,0 +1,5 @@
+class SecondClass {
+  parse() {
+    /*Code*/
+  }
+}
